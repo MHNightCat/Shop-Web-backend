@@ -17,7 +17,7 @@ origins = [
     "https://my-computer.nightcat.xyz",
 ]
 
-api_router = FastAPI()
+api_router = FastAPI()     
 
 # get env sercet
 mongodb_secret = os.getenv("MONGODB_SERCET")
