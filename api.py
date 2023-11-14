@@ -15,6 +15,7 @@ origins = [
     "http://localhost:3000",
     "http://localhost:3000",
     "https://my-computer.nightcat.xyz",
+    "https://pccuhort.com/",
 ]
 
 api_router = FastAPI()     
