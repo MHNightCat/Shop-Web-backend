@@ -7,7 +7,8 @@ origins = [
     "http://localhost:3000",
     "https://my-computer.nightcat.xyz",
     "https://shop-web.nightcat.xyz/",
-    "https://shop-web-api.nightcat.xyz/"
+    "https://shop-web-api.nightcat.xyz/",
+    "https://pccuhort.com/",
 ]
 
 app = FastAPI()  # docs_url=None, redoc_url=None)
